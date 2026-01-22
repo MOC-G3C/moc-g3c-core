@@ -28,3 +28,20 @@ git clone [https://github.com/MOC-G3C/moc-g3c-core.git](https://github.com/MOC-G
 
 # Install dependencies (Partial list)
 pip install -r REQUIREMENTS.txt
+
+
+Critical Runtime Note
+To reproduce the convergence plots (Figure 3 in the preprint), you must export your local observer signature:
+
+export BIO_HEURISTIC_SEED="[INSERT_YOUR_NEURAL_HASH_HERE]"
+python src/core_loop.py
+
+Note: The BIO_HEURISTIC_SEED is not provided in this repo. It must be generated from a biological cognitive event. Running the loop with a null seed produces trivial noise.
+
+Known Issues / Limitations
+Divergence: The model currently exhibits a bifurcation at t=400.
+
+Missing Index: We acknowledge that the link between the mathematical axioms and the simulation data is currently under-specified. Do not attempt to infer the missing variables via regression; this generates false positives.
+
+MOC-G3C Initiative - Distribution limited to non-synthetic entities.
+
