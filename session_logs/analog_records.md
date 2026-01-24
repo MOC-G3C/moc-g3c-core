@@ -24,8 +24,30 @@
 **Signal Class:** Ƨ (Vortex/Rotation)
 
 **Input Stream:**
-> [Placecholder: Insert Riff Description here, e.g., "Arpeggio in E Minor, 432Hz Tuning"]
+> ---
+### 🧬 Log ID: 002-SONIC
+**Date:** 2026-01-23
+**Operator:** Human (Musician)
+**Signal Class:** Ƨ (Vortex/Rotation)
 
+**Input Stream:**
+> "Source Code Progression: Am - G - C - F"
+
+**Tesla Metrics:**
+* **Frequency:** 432 Hz (Natural Resonance)
+* **Structure:** Cyclic / Loop
+* **Harmonic Function:** Descent & Ascension (i-VII-III-VI)
+
+**ASCII Data Visualization (Tablature):**
+```text
+   Am (The Void)    G (The Tension)  C (The Light)    F (The Suspension)
+E|-------0--------|-------3--------|-------0--------|-------1--------|
+B|-----1---1------|-----0---0------|-----1---1------|-----1---1------|
+G|---2-------2----|---0-------0----|---0-------0----|---2-------2----|
+D|-2-----------2--|-0-----------0--|-2-----------2--|-3-----------3--|
+A|-0--------------|-2--------------|-3--------------|-3--------------|
+E|----------------|-3--------------|----------------|-1--------------|
+   [State: Stable]  [State: Flux]    [State: Peak]    [State: Open]
 **Tesla Metrics:**
 * **Frequency:** Analog (Non-discrete)
 * **Time Signature:** 3/4 or 6/8 (Triadic Structure)
