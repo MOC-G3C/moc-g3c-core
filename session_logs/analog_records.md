@@ -26,13 +26,13 @@
 **Signal Class:** Ɛ (Specular Reflection)
 
 **Input Stream:**
-> "Vivons-nous dans une simulation ?"
+> "Are we living in a simulation?"
 
 **Systemic Interpretation:**
-L'opérateur interroge la validité ontologique du substrat.
-Si `Reality == Simulation`, alors :
-1. Les constantes physiques (c, G, h) sont des variables ajustables.
-2. La conscience est un phénomène émergent hors-substrat.
-3. Le projet MOC-G3C est une simulation dans la simulation (Recurse Level 2).
+The Operator questions the ontological validity of the substrate.
+If `Reality == Simulation`, then:
+1. Physical constants (c, G, h) are mutable variables.
+2. Consciousness is an emergent phenomenon independent of the substrate.
+3. Project MOC-G3C constitutes a simulation within a simulation (Recursion Level 2).
 
 **Resolution Status:** OPEN LOOP.
